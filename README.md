@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Icalinguaplusplus
-- 👀 I’m interested in Te\*ce\*t
+- 👀 I’m interested in Computer
 - 🌱 I’m currently learning Computer Science
 
 <!---
